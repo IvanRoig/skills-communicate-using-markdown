@@ -4,3 +4,6 @@
 import pandas
 print("Hello world!")
 ```
+- [x] Comer
+- [x] Cagar
+- [ ] Dormir
